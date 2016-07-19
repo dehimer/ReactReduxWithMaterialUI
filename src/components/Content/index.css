@@ -1,0 +1,9 @@
+.root {
+	width: 100%;
+}
+
+.element {
+	border: 1px solid black;
+	padding: 5px;
+	margin: 2px;
+}

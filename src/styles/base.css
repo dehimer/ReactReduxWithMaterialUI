@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	min-height: 100%;
+}
+
+body {
+	position: absolute;
+	min-height: 100%;
+	display: flex;
+	padding: 0px;
+	margin: 0px;
+	overflow-y: auto;
+}
+
+#root {
+	display: flex;
+}

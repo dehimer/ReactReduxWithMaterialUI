@@ -1,0 +1,14 @@
+.common {
+	padding: 5px;
+	border: 1px solid black;
+	margin: 2px;
+}
+
+.active {
+	composes: common;
+	background-color: red;
+}
+
+.default {
+	composes: common;
+}

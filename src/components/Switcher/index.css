@@ -1,0 +1,15 @@
+.root {
+	display: flex;
+	flex-flow: row nowrap;
+	width: 100%;
+}
+
+.button {
+
+	flex: 1 auto;
+	
+	background-color: #f90;
+	margin: 0px;
+	text-align: center;
+
+}
